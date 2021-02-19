@@ -137,7 +137,7 @@ and Societal Effects of Manufacturing 4.0: Automation, Adaption and Manufacturin
 of Economic Inequalities in Contemporary Latin America: Decades of Change </a></li>
 
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(61).pdf" style="text-decoration:none;">Coreference based event-argument relation extraction on biomedical text</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(61).pdf" style="text-decoration:none;">The Principles of Economics With Applications to Practical Problems</a></li>
    
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(62).pdf" style="text-decoration:none;">
 The Transformation of Economic Life under the Roman Empire </a></li>  
@@ -160,7 +160,8 @@ Economics: Selected Results of the COST Action IS0605 Econ@Tel </a></li>
   
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(69).pdf" style="text-decoration:none;">Ghana's Economic and Agricultural Transformation</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(70).pdf" style="text-decoration:none;">Including New Patterns to Improve Event Extraction Systems</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(70).pdf" style="text-decoration:none;">Intermediate Microeconomics
+</a></li> 
   
  
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(71).pdf" style="text-decoration:none;">China's Dilemma: Economic Growth, the Environment and Climate Change</a></li>
@@ -249,7 +250,7 @@ Transformation in China</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(105).pdf" style="text-decoration:none;">New Approaches
 to the Dynamics, Measurement and Economic Implications of Ethnic Diversity</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(106).pdf" style="text-decoration:none;">Open Event Extraction from Online Text using a Generative Adversarial Network</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(106).pdf" style="text-decoration:none;">Transportation Economics</a></li> 
   
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(107).pdf" style="text-decoration:none;">Litigating Socio-economic Rights in South Africa: A Choice Between Corrective and Distributive Justice</a></li> 
   
@@ -257,7 +258,7 @@ to the Dynamics, Measurement and Economic Implications of Ethnic Diversity</a></
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(108).pdf" style="text-decoration:none;">Offshoring of
 white-collar services: Business and economic perspective</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(109).pdf" style="text-decoration:none;">Joint Event and Temporal Relation Extraction with Shared Representations and Structured Prediction</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(109).pdf" style="text-decoration:none;">Notes on Microeconomic Theory</a></li>  
    
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(110).pdf" style="text-decoration:none;">Economic Geography </a></li>  
    
@@ -270,7 +271,7 @@ Classical Canon in Economics</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(113).pdf" style="text-decoration:none;">Constitutional Deference,
 Courts and Socio-Economic Rights in South Africa</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(114).pdf" style="text-decoration:none;">Financial Event Extraction Using Wikipedia-Based Weak Supervision</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(114).pdf" style="text-decoration:none;">Notes for a Course in Development Economics</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(115).pdf" style="text-decoration:none;">The Economics of the Audiovisual Industry</a></li>  
    
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(116).pdf" style="text-decoration:none;">The Experiment in the History of Economics</a></li>   
