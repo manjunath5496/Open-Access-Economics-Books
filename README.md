@@ -47,9 +47,9 @@ Financial Literacy of Young Adults: Status and Challenges</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(20).pdf" style="text-decoration:none;">Is Behavioral Economics
 Doomed? The Ordinary versus the Extraordinary</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(21).pdf" style="text-decoration:none;">One for All: Neural Joint Modeling of Entities and Events</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(21).pdf" style="text-decoration:none;">Quantum Microeconomics</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(22).pdf" style="text-decoration:none;">Partnership for Change: Australia–China Joint Economic Report</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(23).pdf" style="text-decoration:none;">Cost-sensitive Regularization for Label Confusion-aware Event Detection</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(23).pdf" style="text-decoration:none;">Introduction to Economic Analysis</a></li> 
  
 
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(24).pdf" style="text-decoration:none;">Socio-Economic Atlas of Myanmar</a></li>
