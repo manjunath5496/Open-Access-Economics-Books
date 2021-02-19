@@ -16,7 +16,7 @@ Transformations in Mongolia</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(4).pdf" style="text-decoration:none;">Linkages in South African Economic Development</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(5).pdf" style="text-decoration:none;">Economics in Sweden</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(6).pdf" style="text-decoration:none;">African Economic Development</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(7).pdf" style="text-decoration:none;">Personality and Cognition in Economic Decision Making</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(7).PDF" style="text-decoration:none;">Personality and Cognition in Economic Decision Making</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(8).pdf" style="text-decoration:none;"> Coastal Resources
 Economics and Ecosystem Valuation </a></li>
@@ -82,7 +82,7 @@ and Economic Future of Nuclear Power</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(35).pdf" style="text-decoration:none;">The Impact of the Roman Army
 (200 BC – AD 476): Economic, Social, Political, Religious and Cultural Aspects</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(36).pdf" style="text-decoration:none;">Role of Health Economic Data in Policy Making and Reimbursement of New Medical Technologies</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(36).PDF" style="text-decoration:none;">Role of Health Economic Data in Policy Making and Reimbursement of New Medical Technologies</a></li> 
  
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(37).pdf" style="text-decoration:none;">Global Health
 Economics Shaping Health Policy in Low and Middle-Income Countries</a></li>
@@ -104,7 +104,7 @@ Biodiversity Conservation, and the Formation of Human Capital in a Developing Co
    
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(46).pdf" style="text-decoration:none;">Economic Fables</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(47).pdf" style="text-decoration:none;">The Economics of Protected Marine Species: Concepts in Research and Management</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(47).PDF" style="text-decoration:none;">The Economics of Protected Marine Species: Concepts in Research and Management</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(48).pdf" style="text-decoration:none;">The Economics of Two-way Interconnection</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(49).pdf" style="text-decoration:none;">The Economics of Water: 
