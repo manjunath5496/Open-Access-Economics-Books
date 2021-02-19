@@ -6,90 +6,110 @@
 
                              
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(1).pdf" style="text-decoration:none;">The Origins of Telicity</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(1).pdf" style="text-decoration:none;">Economics of Land Degradation
+and Improvement – A Global Assessment for Sustainable Development</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(2).pdf" style="text-decoration:none;">SupervisedWithin-Document Event Coreference using Information Propagation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(2).pdf" style="text-decoration:none;">Classical Economics Today</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(3).pdf" style="text-decoration:none;">Nominal Reference, Temporal
-Constitution and Quantification in Event Semantics</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(4).pdf" style="text-decoration:none;">Event Detection via Recurrent Neural Network and Argument Prediction</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(5).pdf" style="text-decoration:none;">Joint Modeling of Argument Identification and Role Determination in Chinese Event Extraction with Discourse- evel Information</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(6).pdf" style="text-decoration:none;">F-HMTC: Detecting Financial Events for Investment Decisions Based on Neural Hierarchical Multi-Label Text Classification</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(7).pdf" style="text-decoration:none;">A Unified Model for Financial Event Classification, Detection and Summarization</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(3).pdf" style="text-decoration:none;">Subjective Lives and Economic
+Transformations in Mongolia</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(4).pdf" style="text-decoration:none;">Linkages in South African Economic Development</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(5).pdf" style="text-decoration:none;">Economics in Sweden</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(6).pdf" style="text-decoration:none;">African Economic Development</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(7).pdf" style="text-decoration:none;">Personality and Cognition in Economic Decision Making</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(8).pdf" style="text-decoration:none;"> SupervisedWithin-Document Event Coreference using Information Propagation </a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(9).pdf" style="text-decoration:none;">A Linguistic Resource for Discovering Event Structures and Resolving Event Coreference</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(8).pdf" style="text-decoration:none;"> Coastal Resources
+Economics and Ecosystem Valuation </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(9).pdf" style="text-decoration:none;">Computational Methods for Risk
+Management in Economics and Finance</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(10).pdf" style="text-decoration:none;">Extracting Entities and Events as a Single Task Using a Transition-Based Neural Model</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(11).pdf" style="text-decoration:none;">Using a sledgehammer to crack a nut?
-Lexical diversity and event coreference resolution</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(12).pdf" style="text-decoration:none;">CASIE: Extracting Cybersecurity Event Information from Text</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(13).pdf" style="text-decoration:none;">Event Extraction Using Distant Supervision</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(10).pdf" style="text-decoration:none;">Adaptation of Western Economics by Russian Universities: Intercultural Travel of an Academic Field</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(11).pdf" style="text-decoration:none;">Poverty and Distributional Impact of Economic Policies and External Shocks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(12).pdf" style="text-decoration:none;">Russian Economic Reform</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(13).pdf" style="text-decoration:none;">China's New Sources of Economic Growth: Vol. 1: Reform, Resources and Climate Change</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(14).pdf" style="text-decoration:none;">SinoCoreferencer: An End-to-End Chinese Event Coreference Resolver</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(14).pdf" style="text-decoration:none;">Game Theory and Institutional Economics</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(15).pdf" style="text-decoration:none;">Word sense disambiguation for event trigger word detection in biomedicine</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(15).pdf" style="text-decoration:none;">The Economic Consequences of the
+Gulf War</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(16).pdf" style="text-decoration:none;">Wide coverage biomedical event extraction using multiple partially overlapping corpora</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(16).pdf" style="text-decoration:none;">A Contribution to the Empirics of Economic and Human Development</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(17).pdf" style="text-decoration:none;">Semi-supervised method for biomedical event extraction</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(17).pdf" style="text-decoration:none;">Essays in International Trade and Public Economics</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(18).pdf" style="text-decoration:none;">Scale Up Event Extraction Learning via Automatic Training Data Generation</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(18).pdf" style="text-decoration:none;">Social cost-benefit analysis of air pollution control measures: Advancing environmental-economic assessment methods to evaluate industrial point emission sources</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(19).pdf" style="text-decoration:none;">Event Detection with Neural Networks: A Rigorous Empirical Evaluation</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(19).pdf" style="text-decoration:none;">Economic Competence and
+Financial Literacy of Young Adults: Status and Challenges</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(20).pdf" style="text-decoration:none;">Jointly Multiple Events Extraction via Attention-based Graph Information Aggregation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(20).pdf" style="text-decoration:none;">Is Behavioral Economics
+Doomed? The Ordinary versus the Extraordinary</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(21).pdf" style="text-decoration:none;">One for All: Neural Joint Modeling of Entities and Events</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(22).pdf" style="text-decoration:none;">Doc2EDAG: An End-to-End Document-level Framework for Chinese Financial Event Extraction</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(22).pdf" style="text-decoration:none;">Partnership for Change: Australia–China Joint Economic Report</a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(23).pdf" style="text-decoration:none;">Cost-sensitive Regularization for Label Confusion-aware Event Detection</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(24).pdf" style="text-decoration:none;">Meta-Learning with Dynamic-Memory-Based Prototypical Network for Few-Shot Event Detection</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(24).pdf" style="text-decoration:none;">Socio-Economic Atlas of Myanmar</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(25).pdf" style="text-decoration:none;">Exploiting the Matching Information in the Support Set for Few Shot Event Classification</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(26).pdf" style="text-decoration:none;">Edge-Enhanced Graph Convolution Networks for Event Detection with Syntactic Relation</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(27).pdf" style="text-decoration:none;">Event Extraction by Answering (Almost) Natural Questions</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(25).pdf" style="text-decoration:none;">Selected Papers
+from the 8th Annual Conference of Energy Economics and Management</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(26).pdf" style="text-decoration:none;">Futures Past.
+Economic Forecasting in the 20th and 21st Century</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(27).pdf" style="text-decoration:none;">Economic Complexity and
+Human Development</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(28).pdf" style="text-decoration:none;">Cross-media Structured Common Space for Multimedia Event Extraction</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(28).pdf" style="text-decoration:none;">Health and socio-economic status over the life course</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(29).pdf" style="text-decoration:none;">Document-Level Event Role Filler Extraction using Multi-Granularity Contextualized Encoding </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(30).pdf" style="text-decoration:none;">Extracting COVID-19 Events from Twitter</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(30).pdf" style="text-decoration:none;">Economic Analysis
+of International Law</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(31).pdf" style="text-decoration:none;">Temporal Random Indexing of Context Vectors Applied to Event Detection</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(32).pdf" style="text-decoration:none;">Domain Knowledge Empowered Structured Neural Net for End-to-End Event Temporal Relation Extraction</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(31).pdf" style="text-decoration:none;">Economic Exchange and Social Interaction in Southeast Asia: Perspectives from Prehistory, History, and Ethnography</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(32).pdf" style="text-decoration:none;">Mathematics of Economics and
+Business</a></li> 
 
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(33).pdf" style="text-decoration:none;">BERTering RAMS: What and How Much does BERT Already Know About Event Arguments? —A Study on the RAMS Dataset</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(34).pdf" style="text-decoration:none;">Improving Event Detection via Open-domain Trigger Knowledge</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(34).pdf" style="text-decoration:none;">The Technological
+and Economic Future of Nuclear Power</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(35).pdf" style="text-decoration:none;">A Two-Step Approach for Implicit Event Argument Detection</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(35).pdf" style="text-decoration:none;">The Impact of the Roman Army
+(200 BC – AD 476): Economic, Social, Political, Religious and Cultural Aspects</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(36).pdf" style="text-decoration:none;">Towards Open Domain Event Trigger Identification using Adversarial Domain Adaptation</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(36).pdf" style="text-decoration:none;">Role of Health Economic Data in Policy Making and Reimbursement of New Medical Technologies</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(37).pdf" style="text-decoration:none;">Document-Level Event Role Filler Extraction using Multi-Granularity Contextualized Encoding</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(38).pdf" style="text-decoration:none;">Exploring Interpretability in Event Extraction: Multitask Learning of a Neural Event Classifier and an Explanation Decoder</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(39).pdf" style="text-decoration:none;">Global Locality in Biomedical Relation and Event Extraction</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(40).pdf" style="text-decoration:none;">Connecting the Dots: Event Graph Schema Induction with Path Language Modeling</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(41).pdf" style="text-decoration:none;">Incremental Event Detection via Knowledge Consolidation Networks</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(42).pdf" style="text-decoration:none;">Semi-supervised New Event Type Induction and Event Detection</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(37).pdf" style="text-decoration:none;">Global Health
+Economics Shaping Health Policy in Low and Middle-Income Countries</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(38).pdf" style="text-decoration:none;">Innovation, Economic
+Development, and Intellectual Property in India and China: Comparing Six Economic Sectors</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(39).pdf" style="text-decoration:none;">Changes in the Russian
+Terminology of Economic Law since Perestroika</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(40).pdf" style="text-decoration:none;">Risk Measures
+with Applications in Finance and Economics</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(41).pdf" style="text-decoration:none;">Asian Economic Integration in an Era of Global Uncertainty</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(42).pdf" style="text-decoration:none;">The Changing Economic Geography
+of Globalization</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(43).pdf" style="text-decoration:none;">Event Extraction as Machine Reading Comprehension</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(44).pdf" style="text-decoration:none;">A Method for Building a Commonsense Inference Dataset based on Basic Events</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(45).pdf" style="text-decoration:none;">Weakly Supervised Subevent Knowledge Acquisition</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(43).pdf" style="text-decoration:none;">Art and Economics in the City: 
+New Cultural Maps</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(44).pdf" style="text-decoration:none;">New Directions in Development Economics</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(45).pdf" style="text-decoration:none;">Economic Growth,
+Biodiversity Conservation, and the Formation of Human Capital in a Developing Country: The Case of Guatemala</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(46).pdf" style="text-decoration:none;">Event Detection: Gate Diversity and Syntactic Importance Scores for Graph Convolution Neural Networks</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(46).pdf" style="text-decoration:none;">Economic Fables</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(47).pdf" style="text-decoration:none;">Severing the Edge Between Before and After: Neural Architectures for Temporal Ordering of Events</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(48).pdf" style="text-decoration:none;">Affective Event Classification with Discourse-enhanced Self-training</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(47).pdf" style="text-decoration:none;">The Economics of Protected Marine Species: Concepts in Research and Management</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(48).pdf" style="text-decoration:none;">The Economics of Two-way Interconnection</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(49).pdf" style="text-decoration:none;">Event Extraction as Multi-turn Question Answering</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(49).pdf" style="text-decoration:none;">The Economics of Water: 
+Rules and Institutions</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(50).pdf" style="text-decoration:none;">Biomedical Event Extraction with Hierarchical Knowledge Graphs</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(50).pdf" style="text-decoration:none;">Practical Economics</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(51).pdf" style="text-decoration:none;">Edge-Enhanced Graph Convolution Networks for Event Detection with Syntactic Relation</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(52).pdf" style="text-decoration:none;">How Does Context Matter? On the Robustness of Event Detection with Context-Selective Mask Generalization</a></li>
 
