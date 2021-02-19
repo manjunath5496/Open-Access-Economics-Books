@@ -195,33 +195,42 @@ The political and economic growth of a continent</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(85).pdf" style="text-decoration:none;">The Great Mindshift: 
 How a New Economic Paradigm and Sustainability Transformations go Hand in Hand</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(86).pdf" style="text-decoration:none;">Joint Modeling for Chinese Event Extraction with Rich Linguistic Features</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(86).pdf" style="text-decoration:none;">Growing Apart: 
+Religious Reflection on the Rise of Economic Inequality</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(87).pdf" style="text-decoration:none;">Joint Modeling of Trigger Identification and Event Type Determination in Chinese Event Extraction</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(88).pdf" style="text-decoration:none;">Leveraging Multilingual Training for Limited Resource Event Extraction</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(89).pdf" style="text-decoration:none;">Incremental Global Event Extraction</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(87).pdf" style="text-decoration:none;">Regional Economic
+Communities and Peace building in Africa: Lessons from ECOWAS and IGAD</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(88).pdf" style="text-decoration:none;">Economic Evaluation
+of Sustainable Development</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(89).pdf" style="text-decoration:none;">An Economic History of Cambodia in the Twentieth Century</a></li>
   
   
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(90).pdf" style="text-decoration:none;"> Joint Inference for Event Coreference Resolution</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(91).pdf" style="text-decoration:none;">Event Detection with Burst Information Networks</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(90).pdf" style="text-decoration:none;">Exploring Social Sustainability and Economic Practices</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(91).pdf" style="text-decoration:none;">Economic Inequality in Latin America</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(92).pdf" style="text-decoration:none;">Open-Domain Event Detection using Distant Supervision</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(93).pdf" style="text-decoration:none;">Adaptive Information Extraction from Text by Rule Induction and Generalisation</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(94).pdf" style="text-decoration:none;">Fast and Robust Joint Models for Biomedical Event Extraction</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(92).pdf" style="text-decoration:none;">The Optional Protocol to the
+International Covenant on Economic, Social and Cultural Rights: A Commentary</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(93).pdf" style="text-decoration:none;">The Building of Economics at Adelaide, 1901-2001</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(94).pdf" style="text-decoration:none;">The Economic Ethics of
+World Religions and their Laws: An Introduction to Max Weber‘s Comparative Sociology</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(95).pdf" style="text-decoration:none;">Joint Entity and Event Coreference Resolution across Documents</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(95).pdf" style="text-decoration:none;">Sustainable Development in International Law: An Analysis of Key Enviro-economic Instruments</a></li>  
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(96).pdf" style="text-decoration:none;">Employing Compositional Semantics and Discourse Consistency in Chinese Event Extraction</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(96).pdf" style="text-decoration:none;">Agency and Causal
+Explanation in Economics</a></li> 
   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(97).pdf" style="text-decoration:none;">Relieving the Computational Bottleneck: Joint Inference for Event Extraction with High-Dimensional Features</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(97).pdf" style="text-decoration:none;">Liberalization, Financial Instability and Economic Development</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(98).pdf" style="text-decoration:none;">Cross-document Event Coreference Resolution based on Cross-media Features</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(98).pdf" style="text-decoration:none;">Infrastructure and Economic
+Growth in Asia</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(99).pdf" style="text-decoration:none;">Joint Event Trigger Identification and Event Coreference Resolution with Structured Perceptron</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(99).pdf" style="text-decoration:none;">The Europe of Elites: 
+A Study into the Europeanness of Europe's Political and Economic Elites</a></li>  
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(100).pdf" style="text-decoration:none;">Event Detection and Co-reference with Minimal Supervision</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(100).pdf" style="text-decoration:none;">The Impact of Formal
+and Informal Institutions on Economic Growth: A Case Study on the MENA Region</a></li>  
   
  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(101).pdf" style="text-decoration:none;">Modeling Skip-Grams for Event Detection with Convolutional Neural Networks</a></li> 
   
