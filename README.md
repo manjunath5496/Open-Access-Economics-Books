@@ -262,13 +262,14 @@ and Informal Institutions on Economic Growth: A Case Study on the MENA Region</a
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(113).pdf" style="text-decoration:none;">Entity, Relation, and Event Extraction with Contextualized Span Representations</a></li>  
    
 <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(114).pdf" style="text-decoration:none;">Financial Event Extraction Using Wikipedia-Based Weak Supervision</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(115).pdf" style="text-decoration:none;">An Overview of Event Extraction from Text</a></li>  
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(115).pdf" style="text-decoration:none;">The Economics of the Audiovisual Industry</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(116).pdf" style="text-decoration:none;">Joint Entity and Event Extraction with Generative Adversarial Imitation Learning</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(116).pdf" style="text-decoration:none;">The Experiment in the History of Economics</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(117).pdf" style="text-decoration:none;">Bootstrapped Training of Event Extraction Classifiers</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(117).pdf" style="text-decoration:none;">Pursuing global socio-economic, colonial and environmental justice through economic redistribution: the potential significance of human rights treaty obligations</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(118).pdf" style="text-decoration:none;">Skip N-grams and Ranking Functions for Predicting Script Events</a></li>  
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(118).pdf" style="text-decoration:none;">A History of Scottish Economic
+Thought</a></li>  
    
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(119).pdf" style="text-decoration:none;">Event detection based on open information extraction and ontology</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(119).pdf" style="text-decoration:none;">Impact of FDI on economic growth: The role of country income levels and institutional strength</a></li> 
   </ul>
