@@ -288,7 +288,14 @@ Thought</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(121).pdf" style="text-decoration:none;">
 Principles Of Political Economy</a></li> 
     
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(222).pdf" style="text-decoration:none;">Political Economy Lecture Notes</a></li>  
+   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(223).pdf" style="text-decoration:none;">Introductory Macroeconomics</a></li> 
   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(224).pdf" style="text-decoration:none;">Mathematics for Economic Analysis</a></li>  
+   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(225).pdf" style="text-decoration:none;">
+Notes for a Course in Development Economics</a></li>  
   
   
   
