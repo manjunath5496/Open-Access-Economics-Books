@@ -64,7 +64,7 @@ Human Development</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(28).pdf" style="text-decoration:none;">Health and socio-economic status over the life course</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(29).pdf" style="text-decoration:none;">Document-Level Event Role Filler Extraction using Multi-Granularity Contextualized Encoding </a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(29).pdf" style="text-decoration:none;">International Trade: Theory and Policy </a></li>                              
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Access-Economics-Books/blob/master/ec(30).pdf" style="text-decoration:none;">Economic Analysis
 of International Law</a></li>
